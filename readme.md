@@ -6,8 +6,10 @@ The current implementation of the project is based on HTML and Bootstrap CSS.But
 
 GUIDELINES:
 
-1.You can clone this repository in your local environment
-2.Run the code and see the result at your local server
-3.You can also enjoy my project live which is available at the following online site
+1.You can clone this repository in your local environment<br>
+
+2.Run the code and see the result at your local server<br>
+
+3.You can also enjoy my project live which is available at the following online site<br>
 
 Live project link:https://assignmentproject-deshcareer.pages.dev/
